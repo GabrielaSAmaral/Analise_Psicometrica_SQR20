@@ -8,9 +8,6 @@
 Universidade de São Paulo, São Carlos, Brasil
 
 
-**Autor de contato:** Jorge L. Bazán, jlbazan@icmc.usp.br
-
-
 ## Resumo
  Neste notebook, é realizada uma análise psicométrica da escala de rastreamento SRQ-20, composta por vinte
  itens dicotômicos que avaliam indicadores de transtornos mentais comuns (TMC), com respostas “sim” ou
