@@ -8,6 +8,9 @@
 Universidade de São Paulo, São Carlos, Brasil
 
 
+**Autor de contato:** Jorge L. Bazán, jlbazan@icmc.usp.br
+
+
 ## Resumo
  Neste notebook, é realizada uma análise psicométrica da escala de rastreamento SRQ-20, composta por vinte
  itens dicotômicos que avaliam indicadores de transtornos mentais comuns (TMC), com respostas “sim” ou
@@ -47,7 +50,7 @@ install.packages("openxlsx")
 Amaral, G., Quatrochi, B., Bazán, J. L and da Pap da Silva, E. (2025). Análise Psicométrica da escala de rastreio SQR-20 usando dados do GAPSI e Apoia USP. 
 Version v1.0. DOI: https://doi.org/10.5281/zenodo.15246854
 
-Se preferir pode incluir a seguinte entrada BibTeX 
+Se preferir, é possível incluir a seguinte entrada BibTeX:
 
 @misc{amaraletal2025, <br>
 author = {Gabriela Amaral and Brunna  Quatrochi and Jorge L. Bazán and Emanuela Pap da Silva},  <br>
